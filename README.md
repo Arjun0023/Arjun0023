@@ -1,2 +1,4 @@
-[![Arjuns's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjun0023&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/Arjun0023-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun0023&layout=compact&theme=calm)](https://github.com/Arjun0023-readme-stats)
+
+[![](https://raw.githubusercontent.com/Arjun0023/Arjun0023/master/profile-summary-card-output/zenburn/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Arjun0023/Arjun0023/master/profile-summary-card-output/zenburn/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Arjun0023/Arjun0023/master/profile-summary-card-output/zenburn/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Arjun0023/Arjun0023/master/profile-summary-card-output/zenburn/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Arjun0023/Arjun0023/master/profile-summary-card-output/zenburn/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
